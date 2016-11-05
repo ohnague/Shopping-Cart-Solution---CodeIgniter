@@ -1,0 +1,6 @@
+<?php
+
+$lang['first'] = 'Primero';
+$lang['last'] = '&Uacute;ltima';
+$lang['next'] = 'Siguiente';
+$lang['previous'] = 'Anterior';
